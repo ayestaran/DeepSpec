@@ -13,4 +13,6 @@ Throughout the environment, a live System Status panel refreshes every two secon
 
 Every component of the DeepSpec MLX Dashboard is designed to bridge the gap between research and practical application. It turns speculative decoding from a low‑level algorithm into a hands‑on, visual experience—one that makes acceleration dynamics intuitive, measurable, and deeply informative. By combining the inspiration of DeepSeek’s original research with the flexibility of MLX and the efficiency of Apple Silicon, the dashboard stands as both a tribute to the pioneering work of DeepSpec and a forward‑looking tool for modern AI experimentation.
 
+This MLX-based interactive version is derived from the concepts introduced in DeepSeek's original DeepSpec implementation: https://github.com/deepseek-ai/DeepSpec
+
 
